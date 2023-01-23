@@ -1,7 +1,7 @@
 #JS tasks
 ______________
 
-Performing a test task from the educational online platform [Netodology] (https://netology.ru/) on the topic JS - Programming Basics. These assignments include the following topics:
+Performing a test task from the educational online platform [Netodology](https://netology.ru/) on the topic JS - Programming Basics. These assignments include the following topics:
 * Boolean type and branching;
 * Arrays and basic methods;
 * Associative arrays;
