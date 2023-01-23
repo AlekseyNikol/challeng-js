@@ -21,7 +21,7 @@ Implementation process:
 2. Count the total number of posts, the number of edited and unedited posts.
 3. Return the calculated data from the function.
 ```
-![snippet](%D1%81%D0%BB%D0%B0%D0%B9%D0%B41.jpg)
+![snippet](screen.jpg)
 
 #Задания по JS
 ______________
@@ -46,7 +46,7 @@ _Пример реализации:_
 2. Посчитайте общее количество сообщений, количество отредактированных и неотредактированных сообщений.
 3. Верните рассчитанные данные из функции.
 ```
-![код выполнения](%D1%81%D0%BB%D0%B0%D0%B9%D0%B41.jpg)
+![код выполнения](screen.jpg)
 
 
 
