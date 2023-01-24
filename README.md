@@ -1,4 +1,4 @@
-#JS tasks
+# JS tasks
 ______________
 
 Performing a test task from the educational online platform [Netodology](https://netology.ru/) on the topic JS - Programming Basics. These assignments include the following topics:
@@ -23,7 +23,7 @@ Implementation process:
 ```
 ![snippet](screen.jpg)
 
-#Задания по JS
+# Задания по JS
 ______________
 
 Выполнение тестового задания от образовательной онлайн платформы [Нетодология](https://netology.ru/) по теме JS - Основы программирования. Данные задания включают следующие темы:
